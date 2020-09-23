@@ -1,3 +1,3 @@
 # Employee-ReactNative-Client
 
-#React-Native-Apllication-for-Android-and-IOS.
+# React-Native-Apllication-for-Android-and-IOS.
