@@ -8,6 +8,13 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+/server
+/node_modules
+/.expo
+/.expo-shared
+/assets
+/utils.js
+
 
 # macOS
 .DS_Store
